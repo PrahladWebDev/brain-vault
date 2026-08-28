@@ -112,7 +112,7 @@ npm run build       # outputs to frontend/dist — serve with any static host, o
 
 ## Environment variables (backend/.env)
 
-| Variable | Description |
+| Variables | Description |
 |---|---|
 | `PORT` | API port (default `5000`) |
 | `CLIENT_URL` | Frontend origin, for CORS (default `http://localhost:5173`) |
